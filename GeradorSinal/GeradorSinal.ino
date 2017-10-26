@@ -1,4 +1,4 @@
-//Copyright (c) 2013 Itaman Cavalcanti de Oliveira <itamanman@yahoo.com.br>
+//Copyright (c) 2017 Itaman Cavalcanti de Oliveira <itamanman@yahoo.com.br>
 
 //Este programa é um software livre; você pode redistribui-lo e/ou 
 //modifica-lo dentro dos termos da Licença Pública Geral Menor GNU como 
